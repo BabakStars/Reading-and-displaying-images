@@ -1,9 +1,9 @@
 
 import numpy as np
 import cv2 as cv
-img1 = cv.imread('D:/youtube/General/61570421.jpg',0)
-img2 = cv.imread('D:/youtube/General/61570421.jpg',1)
-img3 = cv.imread('D:/youtube/General/61570421.jpg',-1)
+img1 = cv.imread('Your path',0)
+img2 = cv.imread('Your path',1)
+img3 = cv.imread('Your path',-1)
 
 #cv.IMREAD_COLOR                1
 #cv.IMREAD_GRAYSCALE            0
